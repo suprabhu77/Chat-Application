@@ -8,6 +8,6 @@ This Project is basically a chat application one, so more than 2 person can do t
 4. Browser
 
 # Instruction
-For installing socket.io ->npm i socket.io
-For installing express ->npm i express
-For installing nodejs->https://nodejs.org/
+1. For installing socket.io ->npm i socket.io
+2. For installing express ->npm i express
+3. For installing nodejs->https://nodejs.org/
